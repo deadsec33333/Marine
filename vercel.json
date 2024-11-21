@@ -1,9 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/Heroic-Military-Dolphin-Echo-Killed-While-Defending-Naval-Ship-from-Pirates",
-        "destination": "/Heroic-Military-Dolphin-Echo-Killed-While-Defending-Naval-Ship-from-Pirates.html"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/Pulse-US-Navy-Seal-Equipped-with-Surveillance-Gear-Washes-Up-on-Russian-Shore",
+      "destination": "/Pulse-US-Navy-Seal-Equipped-with-Surveillance-Gear-Washes-Up-on-Russian-Shore.html"
+    }
+  ]
+}
